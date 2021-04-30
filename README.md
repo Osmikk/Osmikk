@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Osmikk
+- 👀 I’m interested in game designing 
+- 🌱 I’m currently learning c#
+- 📫 you can reach me via discord Osmikk#9809
